@@ -1,7 +1,7 @@
 <h1>Projeto site: Apeperia</h1>
 <p>Projeto do curso da Alura com a finalidade de instruir com uma melhor camada metódos responsivos e do conceito de construção Mobile-First</p>
 <p>Site de Desenvolvedora de Apps com design pronto e com resposividade</p>
-<p>Link do site no GitHub Pages a seguir:https://felipe-monteiro04.github.io/Apeperia-Alura-Curso/</p>
+<p>Link do site no GitHub Pages a seguir: https://felipe-monteiro04.github.io/Apeperia-Alura-Curso/</p>
 <h2>Screenshots da página abaixo: </h2>
 
 
